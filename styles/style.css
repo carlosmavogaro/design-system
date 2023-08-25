@@ -1,0 +1,109 @@
+body {
+    font-family: "Urbanist";
+    font-weight: 400;
+    font-size: 15px;
+    margin: 0;
+    padding: 27px 205px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 26px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.font h3 {
+    text-decoration: underline;
+}
+
+.paragraph-serif__container {
+    font-family: "Merriweather";
+}
+
+.urbanist {
+    font-family: "Urbanist";
+}
+
+.merriweather {
+    font-family: "Merriweather";
+}
+
+.robotomono {
+    font-family: "Roboto Mono";
+}
+
+.josefinsans {
+    font-family: "Josefin Sans";
+}
+
+.container {
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 34px;
+}
+
+.in-container {
+    display: block;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.color {
+    width: 300px;
+    height: 150px;
+    color: black;
+    display: inline-block;
+    margin-bottom: 5px;
+    position: relative;
+    box-sizing: content-box;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.peach {
+    background-color: #FFC09F;
+}
+
+.flax {
+    background-color: #FFEE93;
+
+}
+
+.lemonchiffon {
+    background-color: #FCF5C7;
+}
+
+.lightblue {
+    background-color: #A0CED9;
+}
+
+.celadon {
+    background-color: #ADF7B6;
+}
+
+.paragraph-serif__container {
+    font-size: 13px;
+}
+
+.paragraph-mono__container {
+    font-size: 13px;
+}
